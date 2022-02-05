@@ -1,0 +1,129 @@
+h1 {
+  color: rgba(4, 4, 5, 0.801);
+  font-size: 40px;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  margin: auto;
+
+}
+
+body {
+  display: block;
+  font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  line-height: 1.5;
+  text-align: center;
+  color: rgb(37, 33, 33);
+  height: 100%;
+  margin: auto;
+
+
+
+}
+
+#img-caption {
+  margin: 15px 0 5px 0;
+}
+
+figcaption {
+  display: block;
+  color: white;
+}
+
+#main {
+  margin: 10px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: rgb(155, 149, 149);
+}
+
+main {
+  display: block;
+}
+
+img {
+
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+}
+
+#img-div {
+  background: rgb(37, 34, 34);
+  padding: 10px;
+  margin: 0;
+
+}
+
+
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+
+}
+
+blockquote {
+  font-style: italic;
+  max-width: 545px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  display: block;
+
+}
+
+a {
+  color: #447ca7;
+}
+
+a:-webkit-any-link {
+  color: webkit-link;
+  cursor: pointer;
+  text-decoration: underline;
+  text-decoration-line: underline;
+  text-decoration-style: initial;
+  text-decoration-color: initial;
+}
+
+h3 {
+  font-size: 1.17em;
+  font-weight: bold;
+}
+
+
+.bloco {
+  display: inline-block;
+  align-items: center;
+  margin: auto;
+
+}
+
+#logo {
+  width: 90px;
+}
+
+#p {
+  font-size: 20px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgba(4, 4, 5, 0.801);
+}
+
+.cabecalho {
+  width: 100%;
+  float: left;
+  padding: 3% 4%;
+
+}
+
+.logo {
+  width: 90px;
+  height: 90px;
+  float: left;
+  background: url(imagens/jolly.png) center center/90px no-repeat;
+}
+
